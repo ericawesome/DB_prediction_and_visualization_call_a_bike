@@ -7,3 +7,5 @@ Click on the button in the top left corner and select the both .csv files provid
 Wait few seconds as it loads the routes 
 
 The routes will be displayed in Green, Yellow and Red colors.
+
+! [Sample](https://i.imgur.com/mOMGoYw.png)
