@@ -11,3 +11,5 @@
 With the model (GradientBoostingRegressor > RandomForestRegressor) we predicted with 10 features the bookings of shared bicycles with an average accuracy of 74%. The forecasting model provides a first good approach to real data after 24 hours of hacking, but can be improved with a little more feature engineering and aggregation of data from nearby car rental stations:
 ![Bike_prediction_vs_real_demand](https://user-images.githubusercontent.com/48921737/61579246-56249380-ab03-11e9-9d42-d4f1429f00b7.jpg)
 
+While in January the peaks are over predicted, the models under predict the peaks in August. This can be learned by increasing the data available to the models. The difference between GBR and and RFR can be seen, as the anomalies are predict worse by random forest in both examples. 
+![Bike prediction in August](https://user-images.githubusercontent.com/8559822/61579498-20cd7500-ab06-11e9-8cd6-47933f8a8710.PNG)
