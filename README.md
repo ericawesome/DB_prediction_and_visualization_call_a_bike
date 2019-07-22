@@ -35,4 +35,4 @@ An application for Operations Management that provides a dynamic forecast for th
 
 **OUTLOOK AND FUTURE PROJECT OPPORTUNITIES**
 
-After this project, informations from the visualization could be used to create a predictive model of the routes and consequently receive a dynamic operations management system. In addition, human-rich events could be included as a feature (1) to enable event-triggered distribution and (2) to improve the prediction model. 
+Subsequent to this project, the information used for visualization could be used for a Operations Management System to obtain a dynamic forecast. In addition, events of human interest could be included as a feature (1) to enable event-driven distribution and (2) to improve the prediction model. 
