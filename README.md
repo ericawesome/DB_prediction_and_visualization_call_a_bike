@@ -1,4 +1,4 @@
-# awesome_DeutscheBahn_call_a_bike (24h hackathon)
+# Deutsche_Bahn_call_a_bike (24h hackathon)
 
 
 **BUSINESS PROBLEM (for a shared mobility provider)**
